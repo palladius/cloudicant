@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudicant",
+  "private_key_id": "12345678faffa67891234012938402980",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nTiPiacerebbeUh\n-----END PRIVATE KEY-----\n",
+  "client_email": "riccardo-mac-sa@cloudicant.iam.gserviceaccount.com",
+  "client_id": "109970271073237474965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/riccardo-mac-sa%40cloudicant.iam.gserviceaccount.com"
+}
