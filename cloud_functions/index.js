@@ -1,4 +1,3 @@
-exports.helloworld = function(context, data) {
-    console.log(data.message);
-    context.success(data.message);
-};
+// This is a dupe of /index.js. Do NOT use this for now.
+// TODO(ricc): migrate /index.js to /cloud_functions/index.js
+
