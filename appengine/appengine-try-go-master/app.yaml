@@ -1,5 +1,5 @@
 application: helloworld
-version: 1
+version: go1 # so it goes on http://go1.cloudicant.appspot.com
 runtime: go
 api_version: go1
 
